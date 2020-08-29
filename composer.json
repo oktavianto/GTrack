@@ -1,13 +1,13 @@
 {
-    "name": "walangkaji/gtrack",
-    "description": "API Cek Resi | Resi Tracker API",
+    "name": "oktavianto/gtrack",
+    "description": "API Cek Resi | Resi Tracker API | Original by Github@walangkaji/GTrack",
     "type": "library",
     "keywords": ["json", "php", "array"],
     "license": "MIT",
     "authors": [
         {
-            "name": "walangkaji",
-            "email": "walangkaji@globaltesla.com"
+            "name": "oktavianto",
+            "email": "excelokta@gmail.com"
         }
     ],
     "require": {
