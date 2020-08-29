@@ -10,10 +10,12 @@ GTrack merupakan sebuah repository yang digunakan untuk Tracking / Cek Resi pada
 ----------
 ### Install GTrack
 
+Original by walangkaji/GTrack
+
 Rekomendasinya dengan menggunakan [Composer](https://getcomposer.org/).
 
 ```bash
-$ composer require walangkaji/gtrack
+$ composer require oktavianto/gtrack
 ```
 
 atau bisa juga dengan cara clone
